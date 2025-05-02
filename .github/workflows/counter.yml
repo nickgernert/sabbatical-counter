@@ -25,4 +25,4 @@ jobs:
         env:
           SLACK_API_TOKEN: ${{ secrets.SLACK_TOKEN }}
         run: |
-          python3 update_status.py
+          python3 counter.py
