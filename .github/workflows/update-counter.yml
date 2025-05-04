@@ -2,7 +2,7 @@ name: Update Slack Status
 
 on:
   schedule:
-    - cron: '0 0 * * *'  # Runs every day at 00:00 UTC
+    - cron: '0 4 * * *'  # Runs every day at 00:00 UTC-4
   workflow_dispatch:       # Optional: lets you run manually from GitHub UI
 
 jobs:
