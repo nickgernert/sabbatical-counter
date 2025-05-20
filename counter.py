@@ -29,22 +29,28 @@ SPECIAL_EVENTS = [
         "emoji": ":palm_tree:"
     },
     {
-        "start": datetime.datetime(2025, 6, 22),
-        "end": datetime.datetime(2025, 6, 25),
-        "text": "Hiking in Southern Utah",
-        "emoji": ":mountain:"
-    },
-    {
         "start": datetime.datetime(2025, 6, 26),
         "end": datetime.datetime(2025, 6, 29),
         "text": "Trip to Alys Beach",
         "emoji": ":beach_with_umbrella:"
     },
     {
-        "start": datetime.datetime(2025, 6, 30),
-        "end": datetime.datetime(2025, 7, 5),
-        "text": "Mountain biking in Arkansas",
+        "start": datetime.datetime(2025, 6, 29),
+        "end": datetime.datetime(2025, 7, 2),
+        "text": "Smoky Mountains",
         "emoji": ":mountain_biking_man:"
+    },
+    {
+        "start": datetime.datetime(2025, 7, 3),
+        "end": datetime.datetime(2025, 7, 5),
+        "text": "South Carolina",
+        "emoji": ":southcarolina:"
+    },
+    {
+        "start": datetime.datetime(2025, 7, 24),
+        "end": datetime.datetime(2025, 7, 27),
+        "text": "One last sabbatical beach trip",
+        "emoji": ":beach_with_umbrella:"
     }
 ]
 
