@@ -6,7 +6,7 @@ import os
 SLACK_API_TOKEN = os.environ["SLACK_API_TOKEN"]
 
 # Target date
-TARGET_DATE = datetime.datetime(2025, 7, 30)
+TARGET_DATE = datetime.datetime(2025, 8, 1)
 
 # Special trip and event dates
 SPECIAL_EVENTS = [
